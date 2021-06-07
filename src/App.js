@@ -37,6 +37,7 @@ const handleChange =e =>{
       </form>
       </div>
       <div className='app-container'>
+      
       {filteredCoins.map( coin =>{
         return(
             <Coin 
