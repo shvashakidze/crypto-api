@@ -28,10 +28,12 @@ padding-top: 7px;
 
 @media only screen and(max-width: 768px){
     .coin-container{
-        width: 50%;
+        width: 50%; 
+        float:center;
     }
     .coin-row{
         width: 50%;
+        float: center;
     }
 }
 
