@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.coin-search{
+  padding-left: 210px;
+  
+}
+.app-container{
+  
+  border-radius: 20px;
+  margin-top: 10px;
+}
